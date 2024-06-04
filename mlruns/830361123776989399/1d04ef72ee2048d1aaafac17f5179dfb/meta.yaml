@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/ml-ops/ML_OPS/mlflow/load_prediction_mlflow/mlruns/830361123776989399/1d04ef72ee2048d1aaafac17f5179dfb/artifacts
+end_time: 1717249798627
+entry_point_name: ''
+experiment_id: '830361123776989399'
+lifecycle_stage: active
+run_id: 1d04ef72ee2048d1aaafac17f5179dfb
+run_name: intelligent-foal-250
+run_uuid: 1d04ef72ee2048d1aaafac17f5179dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717249794079
+status: 3
+tags: []
+user_id: Aadhil_105729

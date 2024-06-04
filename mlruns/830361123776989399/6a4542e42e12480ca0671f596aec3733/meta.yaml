@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/ml-ops/ML_OPS/mlflow/load_prediction_mlflow/mlruns/830361123776989399/6a4542e42e12480ca0671f596aec3733/artifacts
+end_time: 1717249803380
+entry_point_name: ''
+experiment_id: '830361123776989399'
+lifecycle_stage: active
+run_id: 6a4542e42e12480ca0671f596aec3733
+run_name: nervous-deer-932
+run_uuid: 6a4542e42e12480ca0671f596aec3733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717249798651
+status: 3
+tags: []
+user_id: Aadhil_105729

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/ml-ops/ML_OPS/mlflow/load_prediction_mlflow/mlruns/830361123776989399/e458ef878827434e9786d391a336e53d/artifacts
+deleted_time: 1717249499363
+end_time: null
+entry_point_name: ''
+experiment_id: '830361123776989399'
+lifecycle_stage: deleted
+run_id: e458ef878827434e9786d391a336e53d
+run_name: nebulous-cub-258
+run_uuid: e458ef878827434e9786d391a336e53d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717247646704
+status: 1
+tags: []
+user_id: Aadhil_105729

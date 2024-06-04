@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/ml-ops/ML_OPS/mlflow/load_prediction_mlflow/mlruns/830361123776989399/7584f6a52b4a48bca4a7ed48dd460be8/artifacts
+deleted_time: 1717249499362
+end_time: null
+entry_point_name: ''
+experiment_id: '830361123776989399'
+lifecycle_stage: deleted
+run_id: 7584f6a52b4a48bca4a7ed48dd460be8
+run_name: likeable-eel-632
+run_uuid: 7584f6a52b4a48bca4a7ed48dd460be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717249101656
+status: 1
+tags: []
+user_id: Aadhil_105729

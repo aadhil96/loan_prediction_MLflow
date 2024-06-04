@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/ml-ops/ML_OPS/mlflow/load_prediction_mlflow/mlruns/0/774bda69f81f479b9246a7d542cab806/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 774bda69f81f479b9246a7d542cab806
+run_name: useful-yak-521
+run_uuid: 774bda69f81f479b9246a7d542cab806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717252238376
+status: 1
+tags: []
+user_id: Aadhil_105729

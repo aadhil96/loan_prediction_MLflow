@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Aadhil_105729/Desktop/ml-ops/ML_OPS/mlflow/load_prediction_mlflow/mlruns/830361123776989399/cd2d5fa1d42a454dace3eee808a052fa/artifacts
+deleted_time: 1717249499365
+end_time: null
+entry_point_name: ''
+experiment_id: '830361123776989399'
+lifecycle_stage: deleted
+run_id: cd2d5fa1d42a454dace3eee808a052fa
+run_name: adorable-squid-31
+run_uuid: cd2d5fa1d42a454dace3eee808a052fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717246849358
+status: 1
+tags: []
+user_id: Aadhil_105729
